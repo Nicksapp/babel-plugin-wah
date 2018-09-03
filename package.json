@@ -1,0 +1,53 @@
+{
+  "name": "wah",
+  "version": "1.0.0",
+  "description": "Enhanced nej app development toolkit, expecially in support of webpack.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wah"
+  ],
+  "author": "changjie@corp.netease.com",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "9.0.1",
+    "babel-cli": "6.26.0",
+    "babel-core": "6.26.3",
+    "babel-eslint": "8.2.6",
+    "babel-loader": "7.1.5",
+    "babel-plugin-transform-async-to-generator": "6.24.1",
+    "babel-plugin-transform-nej-module": "2.1.3",
+    "babel-plugin-transform-regenerator": "6.26.0",
+    "babel-plugin-transform-remove-strict-mode": "0.0.2",
+    "babel-plugin-transform-runtime": "6.23.0",
+    "babel-preset-env": "1.7.0",
+    "babel-preset-es2016": "6.24.1",
+    "babel-preset-es2017": "6.24.1",
+    "babel-preset-stage-2": "6.24.1",
+    "babel-template": "6.26.0",
+    "babel-types": "6.26.0",
+    "chalk": "2.4.1",
+    "chokidar": "2.0.4",
+    "copy-webpack-plugin": "4.5.2",
+    "css-loader": "1.0.0",
+    "cssnano": "4.0.3",
+    "eslint": "5.2.0",
+    "eslint-loader": "2.1.0",
+    "extract-loader": "2.0.1",
+    "extract-text-webpack-plugin": "3.0.2",
+    "file-loader": "1.1.11",
+    "html-loader": "0.5.5",
+    "html-webpack-plugin": "3.2.0",
+    "node-sass": "4.9.2",
+    "nodemon": "1.18.3",
+    "postcss-loader": "2.1.6",
+    "resolve-url-loader": "2.3.0",
+    "sass-loader": "7.0.3",
+    "style-loader": "0.21.0",
+    "url-loader": "1.0.1",
+    "webpack": "4.16.2",
+    "webpack-cli": "3.1.0"
+  }
+}
